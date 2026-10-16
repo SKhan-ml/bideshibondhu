@@ -1,0 +1,1 @@
+My own learning project - building a full production-style app from scratch.
